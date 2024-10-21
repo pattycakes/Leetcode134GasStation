@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\VS_PROJECTS\\Leetcode134GasStation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6AC7EAD3-4C9A-4C70-B28A-E634C5B8B1EB}|Leetcode134GasStation\\Leetcode134GasStation.csproj|d:\\vs_projects\\leetcode134gasstation\\leetcode134gasstation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AC7EAD3-4C9A-4C70-B28A-E634C5B8B1EB}|Leetcode134GasStation\\Leetcode134GasStation.csproj|solutionrelative:leetcode134gasstation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\VS_PROJECTS\\Leetcode134GasStation\\Leetcode134GasStation\\Program.cs",
+              "RelativeDocumentMoniker": "Leetcode134GasStation\\Program.cs",
+              "ToolTip": "D:\\VS_PROJECTS\\Leetcode134GasStation\\Leetcode134GasStation\\Program.cs",
+              "RelativeToolTip": "Leetcode134GasStation\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T18:39:11.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
